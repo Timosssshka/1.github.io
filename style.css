@@ -16,10 +16,6 @@ html,body
   margin:8px;
   height:100px;
 }
-li 
-{
-  list-style-type: none;
-}
 nav 
 {
   border-left: auto;
