@@ -23,27 +23,16 @@ nav
 }
 nav ul
 {
-  height: 130px;
-  line-height: 130px;
+  display:table;
+  margin:auto;
 }
 nav ul li
 {
-  float: left;
-  line-height: 80px;
-  margin-top:20px;
+  display:table-cell;
+  width:20%;
+  text-align:center;
 }
 nav ul li a 
 {
   padding:0 60px;
-}
-ul
-{
- display:table;
- margin:auto;
-}
-ul li
-{
- display:table-cell;
- width:20%;
- text-align:center;
 }
