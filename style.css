@@ -36,9 +36,14 @@ nav ul li a
 {
   padding:0 60px;
 }
-.group-item a
+ul
 {
-  font-size: 18px;
-  color: #333333;
-  text-align: center;
+ display:table;
+ margin:auto;
+}
+ul li
+{
+ display:table-cell;
+ width:20%;
+ text-align:center;
 }
