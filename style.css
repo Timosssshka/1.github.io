@@ -18,8 +18,8 @@ html,body
 }
 nav 
 {
-  float: right;
-  width: 1050px;
+  border-left: auto;
+  border-right: auto;
 }
 nav ul
 {
