@@ -12,7 +12,8 @@ html,body
 #line
 {
   width:1024px;
-  height:
+  margin:0 auto;
+  height:100px;
 }
 nav 
 {
