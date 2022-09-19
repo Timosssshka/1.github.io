@@ -39,6 +39,14 @@ p{
   margin-left: 480px;
   height: 600px;
 }
+#thirdtb
+{
+  background-color: #c2e69e;
+  width: 960px;
+  margin: 20px;
+  margin-left: 480px;
+  height: 600px;
+}
 table.t{
 	width: 100%;
 	border-collapse: collapse;
