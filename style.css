@@ -39,22 +39,18 @@ p{
   margin-left: 480px;
   height: 600px;
 }
-table.tablisa{
+table.t{
 	width: 100%;
-	border-collapse:collapse;
-	border-spacing:0;
-	height: auto;
-}
-table.tablisa,table.tablisa td, table.tablisa th {
-	border: 1px solid #595959;
-}
-table.tablisa td,table.tablisa th {
-	padding: 3px;
+	border-collapse: collapse;
+	border-spacing: 0;
+	height: auto; }
+table.t,table.t td, table.t th {
+	border: 1px solid #595959; }
+table.t td,table.t th {
+	min-height: 35px;padding: 3px; 
 	width: 30px;
-	height: 35px;
-}
-table.tablisa th {
-	background: #347c99; 
-	color: #fff; 
-	font-weight: normal;
-}
+	height: 35px; }
+table.t th {
+	background: #347c99;
+	color: #fff;
+	font-weight: normal; }
