@@ -29,7 +29,7 @@ p{
  display:inline-block;
  float:left;
  margin-right: 150px;
-  float:left;
-  margin-right: 150px;
+  float:right;
+ /* margin-right: 150px;*/
   text-align: center;
 }  
