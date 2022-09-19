@@ -23,11 +23,11 @@ margin-right: 300px;
   width: 960px;
   margin: 10px;
   margin-left: 480px;
-  height: 65px;
+  height: 70px;
 }
 p{
  display:inline-block;
- float:left;
+ float: left;
  margin-right: 225px;
  text-align: center;
 } 
