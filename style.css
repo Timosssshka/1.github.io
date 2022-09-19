@@ -53,7 +53,7 @@ table.t{
 	border-spacing: 0;
 	height: auto; }
 table.t,table.t td, table.t th {
-	border: 1px solid #595959; }
+	border: 1px solid #000000; }
 table.t td,table.t th 
 {
 	min-height: 35px;
@@ -64,6 +64,6 @@ table.t td,table.t th
 table.t th 
 {
 	background: #347c99;
-	color: #fff;
+	color: #000000;
 	font-weight: normal; 
 }
