@@ -4,7 +4,8 @@ html,body
 }
 #logo 
 {
-width: 1920px;
+width: 100px;
+  height:100px;
 float: left;
 margin-right: 10px;
 }
