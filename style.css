@@ -28,7 +28,9 @@ margin-right: 300px;
 p{
  display:inline-block;
  float: left;
- margin-right: 300px;
+ margin-right: 150px;
+ float: left;
+  margin-right: 150px;
  text-align: center;
 } 
 #secondtb
