@@ -5,16 +5,16 @@ html,body
 #logo 
 {
 width: 100px;
-height:100px;
+height: 100px;
 float: left;
 margin-right: 10px;
 }
 #line
 {
   background-color: #c2e69e;
-  width:1920px;
-  margin:8px;
-  height:100px;
+  width: 1920px;
+  margin: 8px;
+  height: 100px;
 }
 nav 
 {
@@ -23,22 +23,22 @@ nav
 }
 nav ul
 {
-  display:table;
-  margin:auto;
+  display: table;
+  margin: auto;
 }
 nav ul li
 {
-  display:table-cell;
-  width:20%;
-  text-align:center;
+  display: table-cell;
+  width: 20%;
+  text-align: center;
   line-height: normal;
   margin-top: 20px;
   text-align: center;
 }
 nav ul li a 
 {
-  padding:0 60px;
+  padding: 0 60px;
 }
 html {font-size: 100.01%;}
-body {font:italic bold 30px/54px Georgia, serif;}
-h2 {font-size: 60%; line-height:60%;}
+body {font: italic bold 30px/54px Georgia, serif;}
+h2 {font-size: 60%; line-height: 60%;}
