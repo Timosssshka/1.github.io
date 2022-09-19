@@ -5,7 +5,7 @@ html,body
 #logo 
 {
 width: 100px;
-height: 100px;
+max-width: 960px;
 float: left;
 margin-right: 10px;
 }
