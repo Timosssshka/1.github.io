@@ -36,12 +36,9 @@ nav ul
 }
 nav ul li
 {
-  display: table-cell;
-  width: 20%;
-  text-align: center;
-  line-height: 250px;
-  margin-top: 50px;
-  text-align: center;
+  display: inline;
+  margin-right: 5px;
+  padding: 3px;
 }
 nav ul li a 
 {
