@@ -40,3 +40,6 @@ nav ul li a
 html {font-size: 100.01%;}
 body {font:italic bold 30px/54px Georgia, serif;}
 h2 {font-size: 60%; line-height:60%;}
+span {
+font-weight: bold; font-size: 45px;
+}
