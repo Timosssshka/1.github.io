@@ -16,7 +16,7 @@ html,body
   width: 1920px;
   margin: 0px;
   height: 100px;
-  font-weight: 60px;
+  font-size: 60px;
   color: #008000;
 }
 #pervtab
@@ -75,6 +75,5 @@ width:1920px;
 height: 50px;
 margin: 0 auto;
 margin-top: 50px;
-  font-weight: 30px;
   color: #008000;
 }
