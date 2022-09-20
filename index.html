@@ -87,6 +87,67 @@
 	  </tbody>
 		   </table>
 	   </div>
-  
+  	<h1>Форма HTML</h1>
+	<div id="fourtb">
+    <form action="URL_отправки_данных" method="POST">
+ <label>
+ Имя:
+  <br />
+      <input name="field-name-1" value="Введите имя" /> 
+  </label><br />
+ <label>
+ Почта:
+  <br />
+      <input name="field-email" value="Ваша электронная почта" type="email" />
+  </label>
+ <br />
+  <label>
+ Дата рождения:
+ <br />
+      <input name="field-date" value="2019-08-13" type="date" />
+  </label>
+ <br />
+ Пол:
+ <br />
+  <label>
+     <input type="radio" checked="checked" name="radio-group-0" value="М" />М
+  </label>
+  <label>
+     <input type="radio" name="radio-group-0" value="Ж" />Ж
+ </label><br />
+Кол-во конечностей:
+ <br />
+<label>
+ <input type="radio" checked="checked" name="radio-group-1" value="Значение1" />1</label>
+ <label>
+ <input type="radio" name="radio-group-1" value="Значение2" />2</label> 
+ <label>
+ <input type="radio" name="radio-group-1" value="Значение3" />3</label> 
+ <label>
+ <input type="radio" name="radio-group-1" value="Значение4" />4</label>
+ <label>
+ <input type="radio" name="radio-group-1" value="Значение5" />5</label>
+ <br /> 
+   <label>
+Сверхспособности:
+ <br />
+  <select name="field-name-3[]" multiple="multiple">
+  <option value="Значение1">Бессмертие</option>
+  <option value="Значение2" selected="selected">Прохождение сквозь стены</option>
+  <option value="Значение3" selected="selected">Левитация</option>
+  </select></label>
+ <br />
+  <label>
+Биография:
+  <br />
+  <textarea name="field-name-2">Напишите свою биографию</textarea></label>
+  <br />
+ <br />
+  <label>C контрактом ознакомлен(а)<input type="checkbox" name="check-1" /></label>
+ <br />
+ <p>Отправить форму:
+  <input type="submit" value="Отправить" />
+   </p>
+	    </div>
   </body>
 </html>
