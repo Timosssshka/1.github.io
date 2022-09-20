@@ -1,6 +1,9 @@
 html,body
 {
   background-color: #ffdab9;
+  font-family: "monospace";
+  font-weight: 50px;
+  color: #ffffff;
 }
 #logo 
 {
@@ -73,4 +76,7 @@ width:1920px;
 height: 50px;
 margin: 0 auto;
 margin-top: 50px;
+  font-family: "monospace";
+  font-weight: 25px;
+  color: #ffffff;
 }
