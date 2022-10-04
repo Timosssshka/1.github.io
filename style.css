@@ -27,11 +27,10 @@ html,body
   margin-left: 480px;
   height: 75px;
 }
-p{
- display:inline-block;
- float: left;
- margin-right: 175px;
- text-align: center;
+#pervtab.li
+{
+  list-style: none;
+}
 } 
 #secondtb
 {
@@ -59,6 +58,7 @@ p{
 }
 table {
    border: 1px solid grey;
+  background-color: #99CC33; 
   width: 100%;
   height: 170px;
 }
@@ -67,6 +67,10 @@ th {
 }
 td {
    border: 1px solid grey;
+}
+tr.even
+{
+  background-color: #ffff00;
 }
 .footer
 {
