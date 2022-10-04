@@ -32,7 +32,6 @@ html,body
   list-style: none;
   display: inline;
 }
-} 
 #secondtb
 {
   background-color: #c2e69e;
@@ -57,13 +56,15 @@ html,body
   margin-left: 480px;
   height: 455px;
 }
-table {
+table 
+{
    border: 1px solid grey;
   background-color: #99CC33; 
   width: 100%;
   height: 170px;
 }
-th, td {
+th, td 
+{
    border: 1px solid grey;
 }
 tr.even
