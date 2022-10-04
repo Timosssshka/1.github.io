@@ -27,7 +27,7 @@ html,body
   margin-left: 480px;
   height: 75px;
 }
-#pervtab.li
+#pervtab li
 {
   list-style: none;
   display: inline;
