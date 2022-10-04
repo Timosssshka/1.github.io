@@ -30,6 +30,7 @@ html,body
 #pervtab.li
 {
   list-style: none;
+  display: inline;
 }
 } 
 #secondtb
