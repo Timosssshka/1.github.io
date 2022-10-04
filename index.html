@@ -16,9 +16,10 @@
     <nav>
      <div id="pervtab">
       <ul style="list-style:none;">
-       <p><a href="#giperl" title="Нумированный список гиперссылок">Гиперссылки</a></p>
-       <p><a href ="#table" title="Таблица с контентом">Таблица</a></p>
-       <p><a href ="#form" title="Перейти к заполнению формы">Форма</a></p>
+       <ul class="navigation">
+       <li><a href="#giperl" title="Нумированный список гиперссылок">Гиперссылки</a></li>
+       <li><a href ="#table" title="Таблица с контентом">Таблица</a></li>
+       <li><a href ="#form" title="Перейти к заполнению формы">Форма</a></li>
       </ul>
      </div>
     </nav>
@@ -70,27 +71,27 @@
   <table>
 	  <tbody>
 		  <tr>
-			  <td BGCOLOR="#99CC33">Дата</td>
-			  <td BGCOLOR="#99CC33">Время</td>
+			  <td>Дата</td>
+			  <td>Время</td>
 			  <td BGCOLOR="#99CC33">Планы</td>
 		  </tr>
-		  <tr>
-			  <th BGCOLOR="#ffff00">1</td>
-			  <th BGCOLOR="#ffff00">2</td>
-			  <th BGCOLOR="#ffff00">3</td>
+		  <tr clas="even">
+			  <th>1</th>
+			  <th>2</th>
+			  <th>3</th>
 		  </tr>
 		  <tr>
-			  <th BGCOLOR="#99CC33">4</td>
-			  <th BGCOLOR="#99CC33">5</td>
-			  <th BGCOLOR="#99CC33">6</td>
+			  <th>4</th>
+			  <th>5</th>
+			  <th>6</th>
+		  </tr>
+		  <tr tr clas="even">
+			  <th>7</th>
+			  <th>8</th>
+			  <th>9</th>
 		  </tr>
 		  <tr>
-			  <th BGCOLOR="#ffff00">7</td>
-			  <th BGCOLOR="#ffff00">8</td>
-			  <th BGCOLOR="#ffff00">9</td>
-		  </tr>
-		  <tr>
-			  <td colspan="3" BGCOLOR="#99CC33">Объединённая ячейчка</td>
+			  <th colspan="3">Объединённая ячейчка</th>
 		  </tr>
 	  </tbody>
 		   </table>
@@ -157,11 +158,10 @@
  <br />
   <label>C контрактом ознакомлен(а)<input type="checkbox" name="check-1" /></label>
  <br />
- <p>Отправить форму:
+ Отправить форму:
   <input type="submit" value="Отправить" />
   </nav>
   </div>
-   </p>
 		<footer class="footer" id="foot">
 <h4>(с) Охотников Тимофей 2022</h4>
 </footer>
