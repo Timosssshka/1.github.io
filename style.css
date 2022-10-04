@@ -29,8 +29,12 @@ html,body
 }
 #pervtab li
 {
-  list-style: none;
+  list-style-type: none;
   display: inline;
+}
+#pervtab li a
+{
+  
 }
 #secondtb
 {
