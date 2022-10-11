@@ -19,7 +19,7 @@ html,body
   font-size: 60px;
   color: #008000;
 }
-#pervtab,nav
+#pervtab
 {
   background-color: #c2e69e;
   width: 960px;
@@ -30,6 +30,13 @@ html,body
   height: 75px;
 }
 nav {
+    background-color: #c2e69e;
+    font-weight: 400;
+    font-style: normal;
+    text-align: left;
+    margin: 0 150px;
+    padding: 4px;
+    width: 960px;
     display: flex;
     justify-content: space-around;
 }
