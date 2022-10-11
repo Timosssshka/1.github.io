@@ -79,7 +79,7 @@ tr.even
 {
 background-color: #c2e69e;
 width:1920px;
-height: 50px;
+height: auto;
 margin: 0 auto;
 margin-top: 50px;
   color: #008000;
