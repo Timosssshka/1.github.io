@@ -29,10 +29,9 @@ html,body
   margin-right: 240px;
   height: 75px;
 }
-#pervtab a
-{
-  display: inline-block;
-  margin-right: 80px;  
+nav {
+    display: flex;
+    justify-content: space-around;
 }
 #secondtb
 {
