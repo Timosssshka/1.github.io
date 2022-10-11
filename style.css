@@ -24,17 +24,15 @@ html,body
   background-color: #c2e69e;
   width: 960px;
   margin: 25px;
-  margin-left: 480px;
+  margin-left: 50px;
+  margin-left: 240px;
+  margin-right: 240px;
   height: 75px;
 }
-#pervtab li
+#pervtab a
 {
-  list-style-type: none;
-  display: inline;
-}
-#pervtab li a
-{
-  
+  display: inline-block;
+  margin-right: 80px;  
 }
 #secondtb
 {
