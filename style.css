@@ -20,15 +20,10 @@ html,body
   color: #008000;
 }
 #pervtab {
-    background-color: #c2e69e;
-    font-weight: 400;
-    font-style: normal;
-    text-align: left;
-    margin: 0 150px;
-    padding: 4px;
-    width: 960px;
-    display: flex;
-    justify-content: space-around;
+  background-color: #c2e69e;
+    margin: 25px;
+    margin-left: 330px;
+    height: 75px;
 }
 
 #secondtb
