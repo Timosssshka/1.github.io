@@ -19,7 +19,7 @@ html,body
   font-size: 60px;
   color: #008000;
 }
-#pervtab
+#pervtab,nav
 {
   background-color: #c2e69e;
   width: 960px;
